@@ -1,0 +1,47 @@
+ body {
+      font-family: Arial, sans-serif;
+      background-color: #fff7e6;
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+h1 {
+      color: #245ceb;
+      text-align: center;
+    }
+.question {
+      font-size: 20px;
+      margin: 20px 0 10px;
+    }
+
+.options {
+      margin-bottom: 20px;
+    }
+label {
+      display: block;
+      margin: 8px 0;
+      cursor: pointer;
+    }
+button {
+      padding: 10px 20px;
+      background-color: #9f6021;
+      border: none;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+.feedback {
+      margin-top: 15px;
+      font-weight: bold;
+    }
+ .score {
+      margin-top: 20px;
+      font-size: 18px;
+      color: green;
+      text-align: center;
+    }
+  
