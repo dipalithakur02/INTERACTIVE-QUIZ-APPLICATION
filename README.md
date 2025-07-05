@@ -12,4 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##
+## HGGUGIGU
+
+# OUTPUT
+
+<img width="1029" height="837" alt="Image" src="https://github.com/user-attachments/assets/43772f01-62f9-45b3-9c94-13ea41c9ec3c" />
